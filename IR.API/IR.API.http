@@ -1,0 +1,6 @@
+@IR.API_HostAddress = http://localhost:5024
+
+GET {{IR.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

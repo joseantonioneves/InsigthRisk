@@ -1,0 +1,117 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Jos\u00E9 Antonio\\source\\repos\\InsigthRisk\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{44DFC8E6-49E9-4CBC-ADD5-BEA7F3805AB9}|IR.API\\IR.API.csproj|c:\\users\\jos\u00E9 antonio\\source\\repos\\insigthrisk\\ir.api\\controllers\\grammarhelpcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44DFC8E6-49E9-4CBC-ADD5-BEA7F3805AB9}|IR.API\\IR.API.csproj|solutionrelative:ir.api\\controllers\\grammarhelpcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44DFC8E6-49E9-4CBC-ADD5-BEA7F3805AB9}|IR.API\\IR.API.csproj|c:\\users\\jos\u00E9 antonio\\source\\repos\\insigthrisk\\ir.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{44DFC8E6-49E9-4CBC-ADD5-BEA7F3805AB9}|IR.API\\IR.API.csproj|solutionrelative:ir.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8183EB58-32FB-47E0-A09F-BFDBE8206F1C}|IR.Domain\\IR.Domain.csproj|c:\\users\\jos\u00E9 antonio\\source\\repos\\insigthrisk\\ir.domain\\constants\\successmessage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8183EB58-32FB-47E0-A09F-BFDBE8206F1C}|IR.Domain\\IR.Domain.csproj|solutionrelative:ir.domain\\constants\\successmessage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66B59561-3561-4272-80E3-CB90BEFCAC07}|IR.Services\\IR.Services.csproj|c:\\users\\jos\u00E9 antonio\\source\\repos\\insigthrisk\\ir.services\\resource\\response\\apiresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66B59561-3561-4272-80E3-CB90BEFCAC07}|IR.Services\\IR.Services.csproj|solutionrelative:ir.services\\resource\\response\\apiresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44DFC8E6-49E9-4CBC-ADD5-BEA7F3805AB9}|IR.API\\IR.API.csproj|c:\\users\\jos\u00E9 antonio\\source\\repos\\insigthrisk\\ir.api\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{44DFC8E6-49E9-4CBC-ADD5-BEA7F3805AB9}|IR.API\\IR.API.csproj|solutionrelative:ir.api\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GrammarHelpController.cs",
+              "DocumentMoniker": "C:\\Users\\Jos\u00E9 Antonio\\source\\repos\\InsigthRisk\\IR.API\\Controllers\\GrammarHelpController.cs",
+              "RelativeDocumentMoniker": "IR.API\\Controllers\\GrammarHelpController.cs",
+              "ToolTip": "C:\\Users\\Jos\u00E9 Antonio\\source\\repos\\InsigthRisk\\IR.API\\Controllers\\GrammarHelpController.cs*",
+              "RelativeToolTip": "IR.API\\Controllers\\GrammarHelpController.cs*",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAkwBEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-15T13:59:36.949Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\Jos\u00E9 Antonio\\source\\repos\\InsigthRisk\\IR.API\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "IR.API\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\Jos\u00E9 Antonio\\source\\repos\\InsigthRisk\\IR.API\\appsettings.Development.json*",
+              "RelativeToolTip": "IR.API\\appsettings.Development.json*",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvwkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-04-15T13:57:18.853Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Jos\u00E9 Antonio\\source\\repos\\InsigthRisk\\IR.API\\appsettings.json",
+              "RelativeDocumentMoniker": "IR.API\\appsettings.json",
+              "ToolTip": "C:\\Users\\Jos\u00E9 Antonio\\source\\repos\\InsigthRisk\\IR.API\\appsettings.json*",
+              "RelativeToolTip": "IR.API\\appsettings.json*",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvwgAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-04-15T13:56:10.037Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SuccessMessage.cs",
+              "DocumentMoniker": "C:\\Users\\Jos\u00E9 Antonio\\source\\repos\\InsigthRisk\\IR.Domain\\Constants\\SuccessMessage.cs",
+              "RelativeDocumentMoniker": "IR.Domain\\Constants\\SuccessMessage.cs",
+              "ToolTip": "C:\\Users\\Jos\u00E9 Antonio\\source\\repos\\InsigthRisk\\IR.Domain\\Constants\\SuccessMessage.cs",
+              "RelativeToolTip": "IR.Domain\\Constants\\SuccessMessage.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvwQAAAA/AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-14T22:37:44.205Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ApiResponse.cs",
+              "DocumentMoniker": "C:\\Users\\Jos\u00E9 Antonio\\source\\repos\\InsigthRisk\\IR.Services\\Resource\\Response\\ApiResponse.cs",
+              "RelativeDocumentMoniker": "IR.Services\\Resource\\Response\\ApiResponse.cs",
+              "ToolTip": "C:\\Users\\Jos\u00E9 Antonio\\source\\repos\\InsigthRisk\\IR.Services\\Resource\\Response\\ApiResponse.cs",
+              "RelativeToolTip": "IR.Services\\Resource\\Response\\ApiResponse.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-14T22:19:51.725Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
