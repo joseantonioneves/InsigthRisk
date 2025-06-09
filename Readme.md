@@ -1,4 +1,4 @@
-# InsigtRisk
+# InsightRisk
 
 Aplicação destinada a análise de risco de investimentos em startup através de um assessment com perguntas que visam traçar o perfil de risco técnico do proponente.
 
